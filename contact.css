@@ -101,7 +101,11 @@ body{
     color: #ea4335;
   }
 
-  .github:hover , .instagram:hover , .google:hover , .linkedin:hover{
+  .facebook{
+    color: #259 
+  }
+
+  .github:hover , .facebook:hover , .instagram:hover , .google:hover , .linkedin:hover{
       color: black;
   }
 
